@@ -1,0 +1,21 @@
+
+# File hasil kompilasi C
+*.exe
+*.o
+*.obj
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment Python
+.venv/
+venv/
+
+# File konfigurasi rahasia
+.env
+
+# File editor dan sistem operasi
+.vscode/
+.DS_Store
+Thumbs.db
