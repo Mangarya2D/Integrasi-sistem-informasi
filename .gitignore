@@ -1,6 +1,0 @@
-*.exe
-*.o
-__pycache__/
-.venv/
-venv/
-.env
